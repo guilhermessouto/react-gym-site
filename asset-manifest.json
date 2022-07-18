@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-gym-site/static/css/main.3d0e7f67.css",
+    "main.js": "/react-gym-site/static/js/main.52fb0afa.js",
+    "index.html": "/react-gym-site/index.html",
+    "main.3d0e7f67.css.map": "/react-gym-site/static/css/main.3d0e7f67.css.map",
+    "main.52fb0afa.js.map": "/react-gym-site/static/js/main.52fb0afa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d0e7f67.css",
+    "static/js/main.52fb0afa.js"
+  ]
+}
